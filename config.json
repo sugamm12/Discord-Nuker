@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "spinozapy"
+        ],
+
+        "roles_name": [
+            "spinozapy"
+        ],
+
+        "messages_content": [
+            "https://github.com/spinozapy @everyone"
+        ]
+    }
+}
