@@ -15,9 +15,11 @@ To get started, ensure you have the necessary dependencies by running `pip insta
 2. Ensure you have Python installed.
 3. Open a terminal or command prompt in the cloned directory.
 4. Run the following command to start the tool:
+
     ```
     python main.py
     ```
+    
 5. Input the target server's ID when prompted.
 6. The tool will perform the specified actions on the server.
 
