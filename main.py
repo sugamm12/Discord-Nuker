@@ -390,10 +390,10 @@ if __name__ == "__main__":
             __client__.run(token)
         except EOFError:
             print("Ctrl+D detected. Exiting.")
-            break  # Ctrl+D (EOFError) algılandığında döngüyü kır ve programı bitir
+            break 
         except KeyboardInterrupt:
             print("\nCtrl+C detected. Please enter the Server ID again.")
-            continue  # Ctrl+C (KeyboardInterrupt) algılandığında döngüyü sürdür ve tekrar Server ID iste
+            continue  
         except Exception as e:
             print("{}({}SpinozaNuker{}) An error occurred: {}".format(Fore.RESET, Fore.RED, Fore.RESET, e))
             time.sleep(1.5)
