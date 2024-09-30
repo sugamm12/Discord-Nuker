@@ -8,8 +8,6 @@ DiscordNuker is a Python-based tool designed to swiftly disrupt a specified Disc
 - `httpx` library (Install it using `pip install httpx`)
 - `colorama` library (Install it using `pip install colorama`)
 
-To get started, ensure you have the necessary dependencies by running `pip install -r requirements.txt` in your terminal.
-
 ## Usage
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed.
